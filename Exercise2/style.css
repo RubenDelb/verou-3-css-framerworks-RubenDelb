@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.9;
+    background-color: rgb(231, 231, 231);
+}
+
+.first {
+    background-color: rgb(169, 169, 169);
+}
+
+.Logo {
+    background-color: rgb(131, 130, 130);
+    border: solid;
+    border-color: black;
+    border-radius: 2px;
+}
+
+.second {
+    background-color: cornsilk;
+}
+
+.ctaButton {
+    background-color: red;
+    border: none;
+}
+
+.ctaButton:hover {
+    background-color: rgb(58, 57, 57);
+}
+
+#tryOut {
+    font-size: x-small;
+}
+
+.smallRedTitle {
+    font-size: small;
+    color: rgb(196, 54, 54);
+}
+
+.blueTitle {
+    color: rgb(68, 68, 190);
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(65, 75, 75);
+    color: black;
+}
